@@ -32,11 +32,11 @@
     "bposter": "img/jhon wick1.webp",
     "genre": "Action",
     "type": "movie",
-    "url": "jhon wick.html",
+    "url": "john wick.html",
     "trailer": "john wick trailer.mp4",
-    "low": "video/Jhon Wick 480ph.mp4",
-    "medium": "video/Jhon Wick 720ph.mp4",
-    "high": "video/Jhon Wick 1080ph.mp4"
+    "low": "video/John Wick 480ph.mp4",
+    "medium": "video/John Wick 720ph.mp4",
+    "high": "video/John Wick 1080ph.mp4"
 }, {
     "name": "Ant Man",
     "imdb": 8.9,
